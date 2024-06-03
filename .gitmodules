@@ -1,3 +1,6 @@
 [submodule "OnchainSteamboatWillies/lib/forge-std"]
 	path = OnchainSteamboatWillies/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "BasedMoon/lib/forge-std"]
+	path = BasedMoon/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
